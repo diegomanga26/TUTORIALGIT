@@ -1,0 +1,1 @@
+let lospelaos = 0;
